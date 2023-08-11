@@ -25,6 +25,10 @@ This Jupyter Notebook scrapes CPSC-related course information from Clemson Unive
 
 5. Follow the instructions in the notebook to execute the Python code and scrape course data.
 
+## Organized Data
+
+I have manually organized the scraped data in Excel for better readability. You can find the organized results in the Excel file named `organized_cpsc_data.xlsx`.
+
 ## License
 
 This Jupyter Notebook is provided under the [MIT License](LICENSE).
